@@ -2,7 +2,7 @@
 
 <h3>micro framework slim QUICKSTART<h3>
 
-<b>Что настроино:</b>
+<b>Что настроено:</b>
 <ul>
 <li>MVC</li>
 <li>ELOQUENT ORM</li>
